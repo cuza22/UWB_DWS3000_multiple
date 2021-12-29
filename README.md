@@ -4,7 +4,7 @@ This repository explains how to connect one iPhone with multiple DWS3000. Mostly
 iPhone 한 대와 여러 개의 DWS3000을 연결하는 방법 & 필요한 파일을 기록한 repository이다. 한국어로 작성됨. 
 
 ## Documents
-'/Tutorials'에 있는 설명을 순서대로 따라가거나 아래의 notion 파일을 참고하면 된다. 
+'/Tutorial'에 있는 설명을 순서대로 따라가거나 아래의 notion 파일을 참고하면 된다. 
 
 [🍒 How to test UWB (1) - prepare](https://brook-kookaburra-1eb.notion.site/How-to-test-UWB-1-prepare-274bfbff5389426d91ba40c047659140)
 
